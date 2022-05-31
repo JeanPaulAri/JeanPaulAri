@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPaulAri&layout=compact)]
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeanPaulAri&show_icons=true&theme=radical)
 
