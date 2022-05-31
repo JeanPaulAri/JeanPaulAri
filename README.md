@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPaulAri&layout=compact)]
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPaulAri&langs_count=10&theme=tokyonight&layout=compact" alt="JeanPaulAri :: Top Langs" /></p>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeanPaulAri&show_icons=true&theme=radical)
