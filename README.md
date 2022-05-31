@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPaulAri&langs_count=10&theme=tokyonight&layout=compact" alt="JeanPaulAri :: Top Langs" /></p>
 
 
-<p align="center><img src="https://github-readme-stats.vercel.app/api?username=JeanPaulAri&show_icons=true&theme=radical" alt="JeanPaulAri :: Profile Stats"/></p>
+<p align="center>(https://github-readme-stats.vercel.app/api?username=JeanPaulAri&show_icons=true&theme=radical" alt="JeanPaulAri :: Profile Stats")</p>
 
 
 
