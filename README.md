@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center"><img src="https://i.imgur.com/EhL1uB3.gif" /></p>
+
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=JeanPaulAri&show_icons=true&theme=radical"
@@ -8,6 +11,7 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPaulAri&langs_count=10&theme=tokyonight&layout=compact" alt="JeanPaulAri :: Top Langs" />
 </p>
+
 
 
 
